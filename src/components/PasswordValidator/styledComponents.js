@@ -16,6 +16,7 @@ export const PasswordCont = styled.div`
   background-color: #383a4e;
   height: 50vh;
   padding: 12px;
+  border-radius:8px;
 `
 export const Heading = styled.h1`
   color: #ffffff;
