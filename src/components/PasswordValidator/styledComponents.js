@@ -3,6 +3,8 @@ import styled from 'styled-components'
 
 export const BgContainer = styled.div`
   display: flex;
+  justify-content: center;
+  align-items: center;
   background-color: #24263c;
   height: 100vh;
 `
@@ -12,6 +14,8 @@ export const PasswordCont = styled.div`
   justify-content: center;
   align-items: center;
   background-color: #383a4e;
+  height: 50vh;
+  padding: 12px;
 `
 export const Heading = styled.h1`
   color: #ffffff;
